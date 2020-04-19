@@ -1,5 +1,5 @@
 #theme: jekyll-theme-time-machine
-#remote_theme: benbalter/retlab
+remote_theme: benbalter/retlab
 title: 秘境之瞳
 nav_pages:
   - index.html
