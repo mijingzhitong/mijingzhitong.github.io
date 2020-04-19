@@ -1,5 +1,5 @@
 #theme: jekyll-theme-time-machine
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: benbalter/retlab
 title: 秘境之瞳
 plugins:
   - jekyll-remote-theme
