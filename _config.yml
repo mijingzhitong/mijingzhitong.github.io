@@ -1,3 +1,5 @@
 #theme: jekyll-theme-time-machine
 remote_theme: mmistakes/minimal-mistakes
 title: 秘境之瞳
+plugins:
+  - jekyll-remote-theme
